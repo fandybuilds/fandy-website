@@ -213,9 +213,9 @@ export const techStackCategories = [
 export const socialLinks = [
   {
     name: "GitHub",
-    url: "https://github.com",
+    url: "https://github.com/fandybuilds",
     icon: "Github",
-    username: "@afandydev",
+    username: "@fandybuilds",
     color: "#ffffff"
   },
   {
